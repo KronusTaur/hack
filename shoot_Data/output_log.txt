@@ -1,0 +1,33 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 9.14.3.1170]
+    Renderer: Intel(R) Graphics Media Accelerator
+    Vendor:   Intel
+    VRAM:     747 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.312 seconds
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Gudvin\Desktop\Хакатон\HackVR\shoot_Data\Managed\System.dll (this message is harmless)
+D3D shader create error for pixel shader
+WARNING: Shader Unsupported: 'Hidden/CubeBlur' - Pass '' has no fragment shader
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
